@@ -1,7 +1,6 @@
 package com.selenium.pagefactory;
 
 import io.qameta.allure.Step;
-import org.openqa.selenium.By;
 import org.openqa.selenium.ElementNotInteractableException;
 import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
